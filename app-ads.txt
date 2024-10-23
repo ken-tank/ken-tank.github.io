@@ -330,3 +330,4 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
 sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
 media.net, 8cu12aq1y, RESELLER
+improvedigital.com, 2464, RESELLER
