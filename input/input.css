@@ -5,7 +5,7 @@
         @apply size-full;
     }
     body {
-        @apply bg-gray-900 flex flex-col justify-center items-center h-screen text-yellow-500 font-mono gap-2;
+        @apply bg-gray-900 flex flex-col justify-center items-center h-screen text-yellow-500 font-mono gap-2 p-2;
     }
 }
 

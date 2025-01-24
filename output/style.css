@@ -782,9 +782,6 @@
   .aspect-square {
     aspect-ratio: 1 / 1;
   }
-  .h-px {
-    height: 1px;
-  }
   .h-screen {
     height: 100vh;
   }
@@ -799,9 +796,6 @@
   }
   .min-h-screen {
     min-height: 100vh;
-  }
-  .w-1 {
-    width: calc(var(--spacing) * 1);
   }
   .w-1\/2 {
     width: calc(1/2 * 100%);
@@ -1437,9 +1431,6 @@
   .bg-\[var\(--my_variable\)\] {
     background-color: var(--my_variable);
   }
-  .bg-orange-500 {
-    background-color: var(--color-orange-500);
-  }
   .bg-red-500 {
     background-color: var(--color-red-500);
   }
@@ -1448,12 +1439,6 @@
   }
   .bg-red-500\/\[50\%\] {
     background-color: color-mix(in oklab, var(--color-red-500) 50%, transparent);
-  }
-  .bg-white {
-    background-color: var(--color-white);
-  }
-  .bg-white\/80 {
-    background-color: color-mix(in oklab, var(--color-white) 80%, transparent);
   }
   .-bg-conic {
     --tw-gradient-position: in oklab,;
@@ -2199,12 +2184,6 @@
       width: 100%;
     }
   }
-  .not-lg\:text-7xl {
-    @media not (width >= 64rem) {
-      font-size: var(--text-7xl);
-      line-height: var(--tw-leading, var(--text-7xl--line-height));
-    }
-  }
   .not-lg\:text-8xl {
     @media not (width >= 64rem) {
       font-size: var(--text-8xl);
@@ -2225,6 +2204,7 @@
     justify-content: center;
     gap: calc(var(--spacing) * 2);
     background-color: var(--color-gray-900);
+    padding: calc(var(--spacing) * 2);
     font-family: var(--font-mono);
     color: var(--color-yellow-500);
   }
