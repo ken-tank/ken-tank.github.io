@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+    html {
+        @apply size-full;
+    }
+    body {
+        @apply bg-gray-900 flex flex-col justify-center items-center h-screen text-yellow-500 font-mono gap-2;
+    }
+}
+
+@layer components {
+    .button {
+        @apply border px-2 py-1 bg-transparent border-orange-500 text-orange-500 rounded-sm;
+        @apply duration-200 hover:scale-110;
+    }
+}
