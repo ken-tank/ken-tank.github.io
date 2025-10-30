@@ -46,8 +46,9 @@ appnexus.com, 15670, RESELLER
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 appnexus.com, 16244, RESELLER
 appnexus.com, 17234, RESELLER
-appnexus.com, 17234, RESELLERappnexus.com, 2764, RESELLER, f5ab79cb980f11d1
-appnexus.com, 17779, RESELLERappnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17779, RESELLER
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
 aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
