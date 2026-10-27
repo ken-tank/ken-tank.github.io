@@ -18,6 +18,7 @@ admixplay.com, 2012, RESELLER
 adsyield.com, 1233, RESELLER
 advertising.com, 82632, RESELLER
 adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+adwmg.com, 159512, RESELLER, c9688a22012618e7
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 algorix.co, 60016, RESELLER, 5b394c12fea27a1d
@@ -52,6 +53,7 @@ appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 appnexus.com, 16244, RESELLER
 appnexus.com, 17234, RESELLER
 appnexus.com, 17779, RESELLER
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 axonix.com, 59107, RESELLER, bc385f2b4a87b721
 azberry.com, 321006, RESELLER
@@ -68,6 +70,7 @@ bigo.sg, adidz3dyfp, RESELLER
 blueseasx.com, 203613, RESELLER, 7998eac5087f6110
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
 bluexad.ai, 1996418805747683328, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 brightcom.com, 23120, RESELLER
 brightmountainmedia.com, 2686958, RESELLER
@@ -208,6 +211,8 @@ media.net, 8CUSC3UJ7, RESELLER
 meitu.com, 282, RESELLER
 meitu.com, 699, RESELLER
 mintegral.com, 10038, RESELLER
+monetrix.ai, 10761, RESELLER
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
@@ -301,6 +306,7 @@ pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166335, RESELLER, 5d62403b186f2ace
@@ -405,6 +411,7 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER
@@ -437,6 +444,7 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 start.io, 116712987, RESELLER
+start.io, 131192070, RESELLER
 start.io, 150505487, RESELLER
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
@@ -470,6 +478,7 @@ tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 triplelift.com, 14705-eb, RESELLER
 triplelift.com, 14705-EB, RESELLER
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 triplelift.com, 10223, RESELLER, 6c33edb13117fd86
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
